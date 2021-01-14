@@ -46,8 +46,7 @@ There are four collection data types in the Python programming language:
 
 # Google
 
-## Google Sites
-* [Make a Google Site for yourself](https://sites.google.com/new)
+* [Google Sites: Make a Google Site for yourself](https://sites.google.com/new)
 
 # Coursera
 
