@@ -57,3 +57,8 @@ There are four collection data types in the Python programming language:
 
 * [Overleaf is a collaborative cloud-based LaTeX editor](https://www.overleaf.com/)
 * [A single-page, one-column Latex resume template for software developers](https://github.com/sb2nov/resume)
+
+# Neural Networks
+
+* [Stanford CS class: CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+* [GitHub of Stanford CS class](https://cs231n.github.io/)
