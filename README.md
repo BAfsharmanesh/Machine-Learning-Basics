@@ -24,7 +24,9 @@ There are four collection data types in the Python programming language:
 1. [List](https://www.w3schools.com/python/python_lists.asp) is a collection which is ordered and changeable. Allows duplicate members.
 1. [Tuple](https://www.w3schools.com/python/python_tuples.asp) is a collection which is ordered and unchangeable. Allows duplicate members.
 1. [Set](https://www.w3schools.com/python/python_sets.asp) is a collection which is unordered and unindexed. No duplicate members.
+1. [Set](https://docs.python.org/3/library/stdtypes.html#set)
 1. [Dictionary](https://www.w3schools.com/python/python_dictionaries.asp) is a collection which is unordered and changeable. No duplicate members.
+1. [Dictionary](https://docs.python.org/3/library/stdtypes.html#dict)
 
 [Built-in Types](https://docs.python.org/3/library/stdtypes.html)
 
