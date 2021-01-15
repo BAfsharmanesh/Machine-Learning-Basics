@@ -66,5 +66,6 @@ There are four collection data types in the Python programming language:
 
 # Neural Networks
 
+* [Intro to Neural Networks](https://colab.research.google.com/notebooks/mlcc/intro_to_neural_nets.ipynb#scrollTo=eV16J6oUY-HN)
 * [Stanford CS class: CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 * [GitHub of Stanford CS class](https://cs231n.github.io/)
