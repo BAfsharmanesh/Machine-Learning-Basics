@@ -1,4 +1,4 @@
-# Machine-Learning-Basics
+# Best Tools for Beginners of Machine-Learning
 
 # GitHub
 
@@ -42,7 +42,7 @@ There are four collection data types in the Python programming language:
 ## Numpy
 
 * [NumPy for Matlab users](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
-* [Python Numpy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/): One of the best tutorial about Loops, Function, Numpy, SciPy, Matplotlib.
+* [Python Numpy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/): One of the best tutorials about Loops, Function, Numpy, SciPy, Matplotlib.
 
 # TensorFlow
 * [TensorFlow Programming Concepts](https://colab.research.google.com/notebooks/mlcc/tensorflow_programming_concepts.ipynb#scrollTo=rFpcvnCJ4Xkf)
